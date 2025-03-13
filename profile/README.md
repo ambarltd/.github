@@ -1,4 +1,4 @@
-## Delivering complex web, data, and mobile applications in 4 weeks or less.
+## Delivering complex web, data, and mobile applications in 4 weeks or less
 
 **Our team of ex-Amazon and ex-Facebook engineers will build your application:**
 
